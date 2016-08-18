@@ -8,4 +8,5 @@ setup(
     author_email='tom+pypi@tomm.yt',
     url='https://github.com/t0mmyt/python-consuler',
     packages=['consuler'],
+    license='MIT',
 )
